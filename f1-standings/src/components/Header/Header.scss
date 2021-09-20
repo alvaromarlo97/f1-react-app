@@ -14,7 +14,7 @@
     background-color: $color-white;
     justify-content: space-around;
     align-items: center;
-    height: 17vw;
+    height: 5rem;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     z-index: 1;
@@ -27,15 +27,15 @@
 }
 
 .header__login {
-    height: 8vw;
-    width: 8vw;
+    height: 3rem;
+    width: 3rem;
     border-radius: 50%;
     background-color: $color-black
 }
 
 .header__f1{
-    height: 8vw;
-    width: auto;
+    height: 2rem;
+    width: 8rem;
 }
 
 .header__logout{
@@ -45,6 +45,6 @@
 }
 
 .logout__img{
-    height: 8vw;
-    width: 8vw;
+    height: 3rem;
+    width: 3rem;
 }
